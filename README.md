@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-👋 Hi, I’m Gurnoor Singh Saini, you can find me under the username @Sainigurnoor511
-
-👀 I’m interested in Web Designing and Graphics
-
-🌱 I’m currently pursuing B.tech in Computer Science and Engineering
-
-
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
-
-
-**About me**
-
 - 👋 Hi, I’m Gurnoor Singh Saini, you can find me under the username @Sainigurnoor511
 
 - 👀 I’m interested in Web Designing and Graphics
