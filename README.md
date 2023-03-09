@@ -8,8 +8,6 @@
 
 - 💬 Ask me about anything [here](https://github.com/Sainigurnoor511/Sainigurnoor511/issues)
 
-- 📃 Check out my portfolio [here](https://gurnoorportfolio.nicepage.io/Home.html)
-
 ### I have worked with the following languages :
 
 <code><img height="35" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
