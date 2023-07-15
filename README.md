@@ -12,5 +12,4 @@
 
 <code><img height="35" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" alt="html" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png"></code>
-<code><img height="35" alt="java" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"></code>
 <code><img height="35" alt="c/c++" src="https://repository-images.githubusercontent.com/654965052/5e9c8430-4c20-449b-b124-b6ebf2f3c972"></code>   
