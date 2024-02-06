@@ -7,7 +7,7 @@
 
 - 📝 I’m pursuing B.tech in Computer Science and Engineering
 
-- 🔭 I’m currently working on [carObar : Car Dealership Mangement App](https://github.com/Sainigurnoor511/carObar.git)
+- 🔭 My latest project [carObar : Car Dealership Mangement App](https://github.com/Sainigurnoor511/carObar.git)
 
 - 🌱 I’m currently learning **Flutter, MySQL , Bash**
 
