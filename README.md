@@ -3,7 +3,7 @@
 
 <hr>
 
-- 👀 I’m interested in Cyber Security , Web Designing and Graphics.
+- 👀 I’m interested in Software Development , Web Designing and Graphics.
 
 - 📝 I’m pursuing B.tech in Computer Science and Engineering
 
