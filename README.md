@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, MySQL , Bash**
 
-- 📜 Checkout my **[Resume]([https://resume-saini.super.site/)** 
+- 📜 Checkout my **[Resume]([https://resume-saini.super.site/])** 
 
 - 📫 How to reach me : **sainigurnoor511@gmail.com**
 
