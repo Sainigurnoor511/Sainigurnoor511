@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gurnoor</h1>
-<h3 align="center">An aspiring software developer from India</h3>
+<h3 align="center">🚀 An Aspiring Software Developer from India</h3>
 
 <hr>
+ 
 
-- 👀 I’m interested in Desktop and Mobile Application Development, Python Backend Devlopment and Graphics
-
-- 📖 I’m pursuing B.tech in Computer Science and Engineering
+- ✨ My fields of interest **DevOps  |  Python Backend Devlopment  |  VR/AR  |  Desktop and Mobile Application Development  | Graphic Designing**
 
 - 🔭 My latest project [AnyVR : Virtual Reality Smart Education App](https://anyvr-e5c05.web.app/)
 
