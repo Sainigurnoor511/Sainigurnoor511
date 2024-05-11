@@ -32,6 +32,8 @@
 ###
 
 <div align="center">
+  
+  <h3> Visits : </h3> 
   <img src="https://profile-counter.glitch.me/sainigurnoor511/count.svg?"  />
 </div>
 
@@ -92,9 +94,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sainigurnoor511&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sainigurnoor511&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sainigurnoor511&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=sainigurnoor511&theme=tokyonight&no-bg=true&no-frame=true&column=3&row=3&margin-w=0&margin-h=0" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=sainigurnoor511&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="238" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sainigurnoor511&theme=tokyonight&no-bg=true&no-frame=true&column=9&row=1&margin-w=0&margin-h=0" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<h2 align="left">Contribution Eater 😒🐍 :</h2>
 
 ###
 
@@ -102,7 +108,11 @@
 
 ###
 
-<div align="center">
+<h2 align="left">Currently Listening 🎵 :</h2>
+
+###
+
+<div align="left">
   <a href="https://open.spotify.com/user/4k1r0qrzbhxwtc3x9myt096gk">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=4k1r0qrzbhxwtc3x9myt096gk&count=5&unique=false" alt="Spotify recently played"  />
   </a>
