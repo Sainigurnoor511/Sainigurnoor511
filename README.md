@@ -43,15 +43,17 @@
 
 ###
 
-- ✨ My fields of interest **DevOps  |  Python Backend Devlopment  |  VR/AR  |  Desktop and Mobile Application Development  | Graphic Designing**
+- ✨ My fields of interest **Desktop and Mobile Application Development  |  DevOps  |  Python Backend Development  |  VR/AR  | Graphic Designing**
 
 - 🔭 My latest project [AnyVR : Virtual Reality Smart Education App](https://anyvr-e5c05.web.app/)
 
-- 🌱 I’m currently learning **Flutter, C#** and **Generative AI**
+- 🌱 I’m currently learning **Machine Learning** and **Genrative AI**
 
+<!---
 - 📱 My **[Portfolio](https://sainigurnoor511.wixsite.com/gurnoor-portfolio)** 
-
-- 📜 Checkout my **[Resume](https://resume-saini.super.site/)** 
+ 
+- 📜 Checkout my **[Resume](https://resume-saini.super.site/)**
+-->
 
 - 📫 How to reach me : **sainigurnoor511@gmail.com**
 
