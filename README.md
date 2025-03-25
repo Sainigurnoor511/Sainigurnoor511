@@ -16,6 +16,7 @@
 <!--   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="29" alt="medium logo"  /> -->
 <!--   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="29" alt="devto logo"  /> -->
 
+<!---
 <div align="left">
   
   <a href="https://www.linkedin.com/in/gurnoor-singh-saini-468932227" target="_blank">
@@ -27,7 +28,7 @@
   </a>
   
 </div>
-
+--->
 
 ###
 
@@ -47,19 +48,20 @@
 
 ###
 
-- ✨ My fields of interest **Desktop and Mobile Application Development  |  DevOps  |  Python Backend Development  |  VR/AR  | Graphic Designing**
-
-- 🔭 My latest project [AnyVR : Virtual Reality Smart Education App](https://anyvr-e5c05.web.app/)
-
-- 🌱 I’m currently learning **Machine Learning** and **Genrative AI**
+- ✨ **Fields of Interest:** AI/ML | Python Backend Development | Cross Platform Application Development | VR/AR
+  
+- 🔭 **Latest Project:** [AnyVR: Virtual Reality Smart Education App](https://anyvr-e5c05.web.app/)
+  
+- 🌱 **Currently Learning:** Machine Learning and Generative AI  
 
 <!---
-- 📱 My **[Portfolio](https://sainigurnoor511.wixsite.com/gurnoor-portfolio)** 
- 
-- 📜 Checkout my **[Resume](https://resume-saini.super.site/)**
+- 📱 **[Portfolio](https://sainigurnoor511.wixsite.com/gurnoor-portfolio)**  
+- 📜 **[Resume](https://resume-saini.super.site/)**  
 -->
+- 📫 **Contact:** [sainigurnoor511@gmail.com](mailto:sainigurnoor511@gmail.com)
+  
+- 🔗 **Connect with me on LinkedIn:** [Gurnoor Singh Saini](https://www.linkedin.com/in/sainigurnoor511/)  
 
-- 📫 How to reach me : **sainigurnoor511@gmail.com**
 
 ###
 
@@ -69,8 +71,6 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
@@ -82,12 +82,22 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
 
 ###
+
+</div>
 
 ###
 
@@ -112,6 +122,8 @@
 
 ###
 
+<!---
+
 <h2 align="left">Currently Listening 🎵 :</h2>
 
 ###
@@ -123,3 +135,5 @@
 </div>
 
 ###
+
+--->
