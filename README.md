@@ -1,139 +1,89 @@
 <h1 align="center">Hi 👋, I'm Gurnoor</h1>
 
-###
-
 <p align="center">🚀 An Aspiring Software Developer from India</p>
 
-###
+<br/>
 
-<br clear="both">
+<p align="left">"QUOTE: At any rate, humans change over time based on their actions."</p>
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-254.gif"  />
+---
 
-###
-<!--   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="29" alt="instagram logo"  /> -->
-<!--   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="29" alt="hackerrank logo"  /> -->
-<!--   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="29" alt="medium logo"  /> -->
-<!--   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="29" alt="devto logo"  /> -->
+<h2 align="left">🧑‍💻 About Me</h2>
 
-<!---
-<div align="left">
-  
-  <a href="https://www.linkedin.com/in/gurnoor-singh-saini-468932227" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="29" alt="linkedin logo" />
-  </a>
-    
-  <a href="mailto:sainigurnoor511@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="29" alt="gmail logo" />
-  </a>
-  
-</div>
---->
+- ✨ <b>Fields of Interest:</b> AI/ML | Python Backend Development | Cross-Platform Application Development | VR/AR  
+- 🔭 <b>Latest Project:</b> <a href="https://anyvr-e5c05.web.app/">AnyVR – Virtual Reality Smart Education App</a>  
+- 🌱 <b>Currently Learning:</b> Machine Learning and Generative AI  
+- 📫 <b>Contact:</b> <a href="mailto:sainigurnoor511@gmail.com">sainigurnoor511@gmail.com</a>  
+- 🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sainigurnoor511/">Gurnoor Singh Saini</a>
 
-###
+---
 
-<p align="left">"At any rate, humans change over time based on their actions."</p>
-
-###
-
-<div align="center">
-  
-  <h3> Visits : </h3> 
-  <img src="https://profile-counter.glitch.me/sainigurnoor511/count.svg?"  />
-</div>
-
-###
-
-<h2 align="left">🧑‍💻  About Me:</h2>
-
-###
-
-- ✨ **Fields of Interest:** AI/ML | Python Backend Development | Cross Platform Application Development | VR/AR
-  
-- 🔭 **Latest Project:** [AnyVR: Virtual Reality Smart Education App](https://anyvr-e5c05.web.app/)
-  
-- 🌱 **Currently Learning:** Machine Learning and Generative AI  
-
-<!---
-- 📱 **[Portfolio](https://sainigurnoor511.wixsite.com/gurnoor-portfolio)**  
-- 📜 **[Resume](https://resume-saini.super.site/)**  
--->
-- 📫 **Contact:** [sainigurnoor511@gmail.com](mailto:sainigurnoor511@gmail.com)
-  
-- 🔗 **Connect with me on LinkedIn:** [Gurnoor Singh Saini](https://www.linkedin.com/in/sainigurnoor511/)  
-
-
-###
-
-<h2 align="left">🛠  Language and tools</h2>
-
-###
+<h2 align="left">🛠 Languages & Tools</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" />
 </div>
 
-###
+---
 
-</div>
+<h2 align="left">🔥 GitHub Stats</h2>
 
-###
-
-<h2 align="left">🔥  My Stats :</h2>
-
-###
-
+<!-- Row 1 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sainigurnoor511&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sainigurnoor511&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sainigurnoor511&locale=en&mode=weekly&theme=nightowl&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="238" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=sainigurnoor511&theme=tokyonight&no-bg=true&no-frame=true&column=9&row=1&margin-w=0&margin-h=0" height="150" alt="trophy graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sainigurnoor511&show_icons=true&count_private=true&theme=nightowl&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainigurnoor511&layout=compact&theme=nightowl&hide_border=true"
+    height="170"
+  />
 </div>
 
-###
+<br/>
 
-<h2 align="left">Contribution Eater 😒🐍 :</h2>
+<!-- Row 2 -->
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sainigurnoor511&theme=nightowl&hide_border=true"
+    height="180"
+  />
+</div>
 
-###
+<br/>
+
+<!-- Row 3 -->
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sainigurnoor511&theme=tokyonight&no-frame=true&row=1&column=7"
+  />
+</div>
+
+---
+
+<h2 align="left">🐍 Contribution Eater</h2>
 
 <img src="https://raw.githubusercontent.com/sainigurnoor511/sainigurnoor511/output/snake.svg" alt="Snake animation" />
 
-###
-
-<!---
-
-<h2 align="left">Currently Listening 🎵 :</h2>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/4k1r0qrzbhxwtc3x9myt096gk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4k1r0qrzbhxwtc3x9myt096gk&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
---->
