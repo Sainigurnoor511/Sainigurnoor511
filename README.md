@@ -3,14 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=200&section=header&text=Gurnoor%20Singh%20Saini&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20LLM%20and%20Agentic%20AI%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+real-time+LLM+%26+Agentic+AI+systems;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Building+frontdesk.ai+%26+closeloop.ai;2%2C000x+cost-efficient+voice+AI+at+Jungleworks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+real-time+LLM+%26+Agentic+AI+systems;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Building+frontdesk.ai;2%2C000x+cost-efficient+voice+AI+at+Jungleworks" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="mailto:sainigurnoor511@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sainigurnoor511/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Sainigurnoor511"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://sainigurnoor511.vercel.app"><img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://instagram.com/sainigurnoor511"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
 
@@ -18,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 **Currently:** Associate AI Engineer @ Jungleworks — building real-time LLM systems, RAG pipelines & agentic AI workflows
+- 💼 **Currently:** Associate AI Engineer @ Jungleworks, building real-time LLM systems, RAG pipelines & agentic AI workflows
 - ✨ **Fields of Interest:** LLM Applications · Agentic AI · RAG · AI Voice Systems · Cross-Platform Development
 - 🌱 **Currently Exploring:** Multi-agent orchestration & Model Context Protocol (MCP)
 - 💬 **Ask me about:** LangChain/LangGraph, FastAPI, RAG pipelines, AI voice dialers, vector search
@@ -30,41 +31,47 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 frontdesk.ai</h3>
+      <h3>🧑🏻‍💻 Frontdesk.ai</h3>
       <p>AI-powered front-desk agent that handles calls and conversations automatically.</p>
       <a href="https://github.com/Sainigurnoor511/frontdesk-ai"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📞 closeloop.ai</h3>
-      <p>AI sales dialer platform for automated outbound calling and lead closing.</p>
-      <a href="https://closeloopai.in"><img src="https://img.shields.io/badge/Visit_Site-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+      <h3>📝 easy-notes</h3>
+      <p>Lightweight note-taking app.</p>
+      <a href="https://github.com/Sainigurnoor511/easy-notes"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Multi-Agent Researcher</h3>
-      <p>Multi-agent AI system for automated web research, parallel source discovery, and citation-backed report generation.</p>
-      <a href="https://github.com/Sainigurnoor511/multi-agent-researcher"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 RAG Chatbot</h3>
-      <p>Production-ready RAG chatbot with hybrid search (BM25 + dense retrieval) and cross-encoder re-ranking.</p>
-      <a href="https://github.com/Sainigurnoor511/rag-chatbot"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 Artify.ai</h3>
-      <p>Streamlit image generation app powered by Flux Schnell, deployed with automated CI/CD.</p>
-      <a href="https://artify-ai.streamlit.app"><img src="https://img.shields.io/badge/Visit_Site-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-    </td>
     <td width="50%" valign="top">
       <h3>🕶️ AnyVR</h3>
       <p>Virtual Reality smart education app.</p>
       <a href="https://anyvr-e5c05.web.app/"><img src="https://img.shields.io/badge/Visit_Site-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
     </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Multi-Agent Researcher</h3>
+      <p>Multi-agent AI system for automated web research, parallel source discovery, and citation-backed report generation.</p>
+      <a href="https://github.com/Sainigurnoor511/multi-agent-researcher"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 RAG Chatbot</h3>
+      <p>Production-ready RAG chatbot with hybrid search (BM25 + dense retrieval) and cross-encoder re-ranking.</p>
+      <a href="https://github.com/Sainigurnoor511/rag-chatbot"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Artify.ai</h3>
+      <p>Streamlit image generation app powered by Flux Schnell, deployed with automated CI/CD.</p>
+      <a href="https://artify-ai.streamlit.app"><img src="https://img.shields.io/badge/Visit_Site-38BDF8?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    </td>
   </tr>
 </table>
+
+<br/>
+
+## 🌍 Open Source Contributions
+
+- 🔧 **[cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)** — [#107: fix: invoke pnpm via npm_execpath on Windows](https://github.com/cloudflare/cloudflare-os/pull/107)
 
 <br/>
 
